@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea7fc321-4c58-4913-ab42-d47992246863" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lTBoPt3llTb50ZZjUUThe2Dgmw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="pyconsole" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myUseExistingConsole" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.cv2_tutorial">
+    <configuration name="cv2_tutorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EECS504_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv2_tutorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EECS504_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="video_annotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EECS504_final_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/video_annotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cv2_tutorial" />
+        <item itemvalue="Python.video_annotation" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea7fc321-4c58-4913-ab42-d47992246863" name="Default Changelist" comment="" />
+      <created>1607611374742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607611374742</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="361" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607712219917">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="679" y="361" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1057/1920.-614.1080.1897@0.23.1920.1057" timestamp="1607712219917" />
+    <state x="328" y="734" key="FileChooserDialogImpl" timestamp="1607612463545">
+      <screen x="0" y="23" width="1080" height="1897" />
+    </state>
+    <state x="328" y="734" key="FileChooserDialogImpl/-1920.23.1920.1057/0.23.1080.1897@0.23.1080.1897" timestamp="1607612463545" />
+    <state x="49" y="610" key="SettingsEditor" timestamp="1607613780126">
+      <screen x="0" y="23" width="1080" height="1897" />
+    </state>
+    <state x="49" y="610" key="SettingsEditor/-1920.23.1920.1057/0.23.1080.1897@0.23.1080.1897" timestamp="1607613780126" />
+    <state x="348" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1607883813309">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="348" y="202" key="com.intellij.ide.util.TipDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1607883813309" />
+    <state x="2130" y="-305" key="com.intellij.ide.util.TipDialog/0.23.1920.1057/1920.-614.1080.1897@1920.-614.1080.1897" timestamp="1607617402046" />
+    <state x="340" y="280" width="670" height="676" key="search.everywhere.popup" timestamp="1607893650374">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="1997" y="-612" key="search.everywhere.popup/-1920.-577.1920.1057/1792.-1057.1080.1897/0.23.1792.1097@1792.-1057.1080.1897" timestamp="1607615794414" />
+    <state x="340" y="280" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1607893650374" />
+  </component>
+</project>
